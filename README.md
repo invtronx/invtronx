@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @invtronx
+- 👀 I’m interested in problem solving effectively using programming.
+- 🌱 I’m currently learning C++.
